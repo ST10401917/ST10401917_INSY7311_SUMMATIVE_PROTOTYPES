@@ -1,0 +1,178 @@
+<resources>
+    <string name="app_name">INSY7311 High Fidelity Prototypes</string>
+    <string name="search">SEARCH</string>
+    <string name="part_time_jobs">Part-time Jobs</string>
+    <string name="bursaries">Bursaries</string>
+    <string name="scholarships">Scholarships</string>
+    <string name="study">Study</string>
+    <string name="trending">Trending</string>
+    <string name="scholarships1">Scholarships</string>
+    <string name="part_time_jobs1">Part-time Jobs</string>
+    <string name="recent_jobs">Recent Jobs</string>
+    <string name="bursaries1">Bursaries</string>
+    <string name="pick_n_pay">Pick n Pay</string>
+    <string name="_2_hours_ago">2 Hours ago</string>
+    <string name="study_opportunities">Study Opportunities</string>
+    <string name="sandton_jhb">Sandton, JHB</string>
+    <string name="deadline_may_31_2026">Deadline: May 31 2026</string>
+    <string name="nsfas_bursary_2026">NSFAS Bursary 2026</string>
+    <string name="weekend_retail_assistant">Weekend Retail Assistant</string>
+    <string name="notifications">Notifications</string>
+    <string name="search_icon">Search icon</string>
+    <string name="study2go">Study2Go</string>
+    <string name="find_your_next_opportunity">Find your next opportunity</string>
+    <string name="view_all">View All</string>
+    <string name="view_all1">View All</string>
+    <string name="search1">Search</string>
+    <string name="advanced_search">Advanced Search</string>
+    <string name="type_of_job">Type of Job</string>
+    <string name="search2">Search</string>
+    <string name="city_or_suburb">City or suburb</string>
+    <string name="funding">Funding</string>
+    <string name="jobs">Jobs</string>
+    <string name="search_by_location">Search by location</string>
+    <string name="experience">Experience</string>
+    <string name="error">Error</string>
+    <string name="full_name">Full Name</string>
+    <string name="name_of_current_education_institution">Name of current education institution</string>
+    <string name="upload_your_cv">Upload your CV</string>
+    <string name="error_please_upload_your_cv_before_submitting_the_application">Error: Please upload your CV before submitting the application.</string>
+    <string name="submit_application">SUBMIT APPLICATION</string>
+    <string name="upload">UPLOAD</string>
+    <string name="prashik_gangaparsad">Prashik Gangaparsad</string>
+    <string name="prashikgangaparsad_gmail_com">prashikgangaparsad@gmail.com</string>
+    <string name="email">Email</string>
+    <string name="enter_institution_name">Enter institution name</string>
+    <string name="application_form">Application Form</string>
+    <string name="cv_required">CV required</string>
+    <string name="please_keep_checking_your_messages_to_be_in_communication_with_pick_n_pay">Please keep checking your Messages to be in communication with Pick n Pay</string>
+    <string name="done">DONE →</string>
+    <string name="success">Success</string>
+    <string name="your_application_has_been_sucessfullly_sent_to_pick_n_pay">Your Application has been sucessfullly sent to Pick n Pay</string>
+    <string name="weekend_retail_assistant1">Weekend Retail Assistant</string>
+    <string name="pick_n_pay1">Pick n Pay</string>
+    <string name="part_time_contract">Part-time Contract</string>
+    <string name="iie_emeris_college">IIE Emeris College</string>
+    <string name="varsity_college_math_tutor">Varsity College Math Tutor</string>
+    <string name="part_time_contract1">Part-time Contract</string>
+    <string name="j_amp_s_autosales"><![CDATA[J&S AutoSales]]></string>
+    <string name="full_time">full time</string>
+    <string name="part_time">Part-time</string>
+    <string name="all_jobs">All Jobs</string>
+    <string name="search_jobs">Search jobs...</string>
+    <string name="apply_now">APPLY NOW</string>
+    <string name="carsales_person">Carsales Person</string>
+    <string name="full_time1">Full-time</string>
+    <string name="apply_now1">APPLY NOW</string>
+    <string name="apply_now2">APPLY NOW</string>
+    <string name="find_jobs">Find Jobs</string>
+    <string name="search3">Search</string>
+    <string name="notifications1">Notifications</string>
+    <string name="new_job_match">New Job Match!</string>
+    <string name="_2_hours_ago1">2 hours ago</string>
+    <string name="today">Today</string>
+    <string name="a_new_part_time_job_matching_your_profile_was_posted_weekend_retail_assistant_at_pick_n_pay_sandton">A new part-time job matching your profile was posted: Weekend Retail Assistant at Pick n Pay, Sandton.</string>
+    <string name="application_received">Application Received</string>
+    <string name="_5_hours_ago">5 hours ago</string>
+    <string name="new_message">New Message</string>
+    <string name="just_now">Just now</string>
+    <string name="pick_n_pay_sent_you_a_message_regarding_your_application_tap_to_view">Pick n Pay sent you a message regarding your application. Tap to view.</string>
+    <string name="pick_n_pay_has_received_your_application_for_weekend_retail_assistant_they_will_be_in_touch_soon">Pick n Pay has received your application for Weekend Retail Assistant. They will be in touch soon.</string>
+    <string name="bursary_deadline_reminder">Bursary Deadline Reminder</string>
+    <string name="yesterday">Yesterday</string>
+    <string name="nsfas_bursary_2026_closes_on_may_31_2026_don_t_miss_out_apply_before_the_deadline">NSFAS Bursary 2026 closes on May 31 2026. Don\'t miss out — apply before the deadline.</string>
+    <string name="complete_your_profile">Complete Your Profile</string>
+    <string name="employers_are_3x_more_likely_to_contact_you_when_your_profile_is_100_complete_add_your_skills_now">Employers are 3x more likely to contact you when your profile is 100% complete. Add your skills now.</string>
+    <string name="yesterday_8_00_am">Yesterday, 8:00 AM</string>
+    <string name="new_scholarship_available">New Scholarship Available</string>
+    <string name="yesterday_6_45_am">Yesterday, 6:45 AM</string>
+    <string name="yesterday_10_30_am">Yesterday, 10:30 AM</string>
+    <string name="a_new_wits_merit_scholarship_has_been_listed_check_your_eligibility_and_apply_today">A new Wits Merit Scholarship has been listed. Check your eligibility and apply today.</string>
+    <string name="all">All</string>
+    <string name="unread">Unread</string>
+    <string name="read">Read</string>
+    <string name="back">Back</string>
+    <string name="mark_all_read">Mark all read</string>
+    <string name="log_in">Log In</string>
+    <string name="remember_me">Remember Me</string>
+    <string name="username_email_or_phone_number">Username, Email or Phone Number</string>
+    <string name="password">Password</string>
+    <string name="toggle_password_visibility">Toggle password visibility</string>
+    <string name="forgot_password">Forgot Password ?</string>
+    <string name="don_t_have_an_account">Don\'t have an account ?</string>
+    <string name="hi">Hi !</string>
+    <string name="im_waiting_for_you_please_enter_your_detail">Im waiting for you, please enter your detail</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="welcome_nto_nstudy2go">Welcome\nto\nStudy2Go</string>
+    <string name="welcome_to_study2work">Welcome to Study2Work!</string>
+    <string name="pick_n_pay2">Pick n Pay</string>
+    <string name="messages">Messages</string>
+    <string name="p">P</string>
+    <string name="thank_you_for_applying_we_d_like_to_schedule_an_interview">Thank you for applying! We\'d like to schedule an interview...</string>
+    <string name="i">I</string>
+    <string name="iie_emeris_college1">IIE Emeris College</string>
+    <string name="your_tutor_application_is_under_review">Your tutor application is under review...</string>
+    <string name="_2">2</string>
+    <string name="_1_hr_ago">1 hr ago</string>
+    <string name="j">J</string>
+    <string name="j_amp_s_autosales1"><![CDATA[J&S AutoSales]]></string>
+    <string name="we_have_received_your_cv_we_will_get_back_to_you">We have received your CV, we will get back to you.</string>
+    <string name="s">S</string>
+    <string name="just_now1">Just now</string>
+    <string name="_1">1</string>
+    <string name="_2_days_ago">2 days ago</string>
+    <string name="welcome_to_study2go_complete_your_profile_to_get_started">Welcome to Study2Go! Complete your profile to get started.</string>
+    <string name="yesterday1">Yesterday</string>
+    <string name="study2work_support">Study2Work Support</string>
+    <string name="search4">Search</string>
+    <string name="search_messages">Search messages...</string>
+    <string name="profile">Profile</string>
+    <string name="profile_completion">Profile Completion</string>
+    <string name="personal_information">Personal Information</string>
+    <string name="_70">70%</string>
+    <string name="_27_82_345_6789">+27 82 345 6789</string>
+    <string name="location">Location</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="pmb_kzn">PMB, KZN</string>
+    <string name="emeris_pmb">Emeris PMB</string>
+    <string name="documents">Documents</string>
+    <string name="id_document">ID Document</string>
+    <string name="skills">Skills</string>
+    <string name="my_cv">My CV</string>
+    <string name="change_password">Change Password</string>
+    <string name="account">Account</string>
+    <string name="institution">Institution</string>
+    <string name="pg">PG</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="notifications2">Notifications</string>
+    <string name="customer_service">Customer Service</string>
+    <string name="computer_science">Computer Science</string>
+    <string name="ms_office">MS Office</string>
+    <string name="communication">Communication</string>
+    <string name="edit">Edit</string>
+    <string name="log_out">Log Out</string>
+    <string name="upload1">Upload</string>
+    <string name="st10401917_myemeris_com">st10401917@myemeris.com</string>
+    <string name="add">+ Add</string>
+    <string name="upload2">Upload</string>
+    <string name="prashik_gangaparsad1">Prashik Gangaparsad</string>
+
+
+    <string-array name="job_types">
+        <item>Select job type</item>
+        <item>Part-time</item>
+        <item>Full-time</item>
+        <item>Contract</item>
+        <item>Internship</item>
+    </string-array>
+
+    <string-array name="experience_levels">
+        <item>Select experience</item>
+        <item>No experience</item>
+        <item>1 - 2 years</item>
+        <item>3 - 5 years</item>
+        <item>5+ years</item>
+    </string-array>
+
+
+</resources>
