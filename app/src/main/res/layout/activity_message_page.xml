@@ -351,7 +351,6 @@
                 </LinearLayout>
             </androidx.cardview.widget.CardView>
 
-            <!-- ===== Message Item 4: Study2Go Support (read) ===== -->
             <androidx.cardview.widget.CardView
                 android:id="@+id/msgSupport"
                 android:layout_width="match_parent"
@@ -416,7 +415,7 @@
                             android:layout_marginTop="3dp"
                             android:ellipsize="end"
                             android:maxLines="1"
-                            android:text="@string/welcome_to_study2go_complete_your_profile_to_get_started"
+                            android:text="Welcome to Study2Work complete your profile to get started"
                             android:textColor="#546E7A"
                             android:textSize="12sp" />
 
